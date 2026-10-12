@@ -2,6 +2,14 @@
 
 Editable statement/Q&A page with public read-only viewing and OIDC-protected editing.
 
+## Demo
+
+https://github.com/user-attachments/assets/538f8d15-b634-481f-8b61-8eca5ccbc1cb
+
+
+
+https://stmt.pmh.codes
+
 ## Features
 
 - Public users can view published questions and answers.
